@@ -1,0 +1,2 @@
+# AuthorityStrengthEval
+数据交易场景下权限管理强度评估工具
